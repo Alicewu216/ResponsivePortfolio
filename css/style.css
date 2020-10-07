@@ -2,13 +2,14 @@
     box-sizing: border-box;
   }
   
+  /*set background color, style and text font size and color to page header title*/
   #headernameXAW {
         background-color: rgba(206, 121, 149, 0.801);
         color: white;
         padding: 10px;
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-weight:bold;
-        background-image: radial-gradient(rgba(206, 121, 149, 0.801),rgba(241, 227, 232, 0.925));
+        background-image:rgba(204, 136, 159, 0.801);
   }
 
   /*insert and align bakground image*/
@@ -20,14 +21,16 @@
     background-position: center;
     margin: 0px;
  }
+
+ /*set bakcground color size position and style to main content box*/
  .wrapper {
-    /* Box-model */
     background-color: white;
     width: 700px;
     padding: 40px;
-    margin:0px 500px 120px 40px;
+    margin:0px 500px 120px 80px;
   }
 
+  /*set color, font, size, and style to "About Me" title*/
   h1 {
       color: palevioletred;
       font-family: Georgia, 'Times New Roman', Times, serif;
@@ -35,7 +38,22 @@
       font-weight: bold;
   }
 
-  body {
-    /* Typography */
-    font-size: 18px;
+  /*image align to the left and set margin and size*/
+  .AboutImg {
+      float: left;
+      margin: 20px;
+      height: 200px;
+      width: 275px;
   }
+
+  /*wrapping text around image and set size */
+  p {
+        text-align: justify;
+        font-size: 20px;
+        color: gray
+  }
+
+  .footer .navbar .navbar-text {
+    text-align: center;
+  }
+
