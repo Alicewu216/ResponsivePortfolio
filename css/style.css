@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  #headernameXAW {
+        background-color: rgba(206, 121, 149, 0.801);
+        color: white;
+        padding: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight:bold;
+        background-image: radial-gradient(rgba(206, 121, 149, 0.801),rgba(241, 227, 232, 0.925));
+  }
+
+  /*insert and align bakground image*/
+ .bgimg{
+    background-image: url('https://i.pinimg.com/originals/80/ca/f6/80caf694d069bb4f20b486f7d57e3ecd.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    margin: 0px;
+ }
+ .wrapper {
+    /* Box-model */
+    background-color: white;
+    width: 700px;
+    padding: 40px;
+    margin:0px 500px 120px 40px;
+  }
+
+  h1 {
+      color: palevioletred;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 40px;
+      font-weight: bold;
+  }
+
+  body {
+    /* Typography */
+    font-size: 18px;
+  }
