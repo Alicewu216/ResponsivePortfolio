@@ -25,9 +25,9 @@
  /*set bakcground color size position and style to main content box*/
  .wrapper {
     background-color: white;
-    width: 700px;
+    width: 740px;
     padding: 40px;
-    margin:0px 500px 120px 80px;
+    margin:50px 500px 120px 80px;
   }
 
   /*set color, font, size, and style to "About Me" title*/
@@ -48,12 +48,19 @@
 
   /*wrapping text around image and set size */
   p {
-        text-align: justify;
+        text-align: left;
         font-size: 20px;
         color: gray
   }
 
   .footer .navbar .navbar-text {
-    text-align: center;
+    align-content: center;
+  }
+
+  #ContactButton {
+    background-color: pink;
+    border-radius: 1px;
+    font-size: 15px;
+    padding: 15px 30px;
   }
 
