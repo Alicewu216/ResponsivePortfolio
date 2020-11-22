@@ -77,6 +77,10 @@
   .button.btn-md {
     margin: 10px;
   }
+  .project-title {
+    margin: auto;
+  }
+  
   @media (max-width: 768px) {
     .wrapper {
       background-color: white;
