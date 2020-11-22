@@ -12,12 +12,12 @@ Each page's margin, content, as well as navigation bar changes according to scre
 All pages contains the main title: my name, a working navigation bar, a sticky footer.
 
 Screen shots are shown below for each page with different screen size.
-<img src="about.png">
-<img src="about768.png">
-<img src="about400.png">
-<img src="contact.png">
-<img src="contact768.png">
-<img src="contact400.png">
-<img src="portfolio.png">
-<img src="portfolio768.png">
-<img src="portfolio400.png">
+<img src=".Assets/about.png">
+<img src=".Assetsabout768.png">
+<img src=".Assetsabout400.png">
+<img src=".Assetscontact.png">
+<img src=".Assetscontact768.png">
+<img src=".Assetscontact400.png">
+<img src=".Assetsportfolio.png">
+<img src=".Assetsportfolio768.png">
+<img src=".Assetsportfolio400.png">
