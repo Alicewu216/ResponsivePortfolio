@@ -74,11 +74,12 @@
     height: 225px;
     width: 350px;
   }
-  .button.btn-md {
+  .btn.btn-outline-secondary {
     margin: 10px;
   }
   .project-title {
     margin: auto;
+    font-size: 25px;
   }
   
   @media (max-width: 768px) {
