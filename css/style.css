@@ -45,7 +45,7 @@
     float: left;
     margin: 20px;
     height: 200px;
-    width: 275px;
+    width: 200px;
   }
 
   /*wrapping text around image and set size */
@@ -71,10 +71,12 @@
 
   .PortfolioImg {
     margin: 20px;
-    height: 250px;
+    height: 225px;
     width: 350px;
   }
-
+  .button.btn-md {
+    margin: 10px;
+  }
   @media (max-width: 768px) {
     .wrapper {
       background-color: white;
